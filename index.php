@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    Usuario: <input type="text" id="username" name="username"><br>
+    Contraseña: <input type="password" id="password" name="password"><br>
+    <button id="loginButton">Login</button>
     
 </body>
 </html>
